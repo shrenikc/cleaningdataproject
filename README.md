@@ -14,5 +14,5 @@ Sorted data is written to tidydata.csv
 
 * CodeBook.md - This file contains list of all variables
 
-* tidydata.csv - This file contains merged training and test data. It contains subjectid, activity labels, mean data and standard deviations
+* tidydata.txt - This file contains merged training and test data. It contains subjectid, activity labels, mean data and standard deviations
 

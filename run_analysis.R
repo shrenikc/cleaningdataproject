@@ -49,6 +49,6 @@ alldata <- rbind(trainingdata, testdata)
 alldata<-alldata[order(alldata$subjectid),]
 
 #Write tidy data to tidydata.csv
-write.csv(alldata, file="tidydata.csv", row.names=F)
+write.csv(alldata, file="tidydata.txt", row.names=F)
 
 
